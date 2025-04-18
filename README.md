@@ -28,7 +28,7 @@ Virtual Environment: Recommended to isolate dependencies.
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/1-Sanchit-1/AgroSmart.git
+ git clone https://github.com/rersharma/Agrosmart.git
    ```
 
 2. **Create a Virtual Environment:**
@@ -39,7 +39,7 @@ Virtual Environment: Recommended to isolate dependencies.
 
 3. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt or pip install --only-binary=:all: -r requirements.txt
    ```
 
 4. **Run Migrations:**
